@@ -1,6 +1,6 @@
 # APP DEMO 
 ### `launch app ⬇⬇⬇`
-[click here](https://tinder-clone-98df7.web.app/)
+## [click here](https://tinder-clone-98df7.web.app/)
 
 # Getting Started with Create React App
 
