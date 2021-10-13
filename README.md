@@ -1,5 +1,5 @@
 # APP DEMO 
-### `launch app ⬇⬇⬇`
+### `⬇⬇⬇ launch app `
 ## [click here](https://tinder-clone-98df7.web.app/)
 
 This project is a tinder app that was building using the `M.E.R.N` (MongoDB Express React.js, Node.js)
