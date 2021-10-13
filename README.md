@@ -1,4 +1,4 @@
-# APP DEMO 
+# NEV'S TINDER-CLONE APP DEMO 
 ### `⬇⬇⬇ launch app `
 ## [click here](https://tinder-clone-98df7.web.app/)
 
