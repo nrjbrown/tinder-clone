@@ -1,8 +1,12 @@
 # APP DEMO 
-### `launch app ⬇⬇⬇`
-## [click here](https://tinder-clone-98df7.web.app/)
+## `launch app ⬇⬇⬇`
+### [click here](https://tinder-clone-98df7.web.app/)
 
-# Getting Started with Create React App
+This project is a tinder app that was building using the `M.E.R.N` (MongoDB Express React.js, Node.js)
+
+You can try it out for yourself by cloning and following the below instrutions. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
