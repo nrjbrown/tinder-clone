@@ -6,6 +6,7 @@ import SwipeButtons from './SwipeButtons';
 
 
 function App() {
+  
   return (
     <div className="app">
       <Header/>
